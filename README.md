@@ -32,6 +32,6 @@
 [twitter]: https://twitter.com/thomatrn
 [youtube]: https://youtube.com/ZirnoX
 [instagram]: https://instagram.com/thomatrn
-[linkedin]: https://linkedin.com/in/thomatrn
+[linkedin]: https://www.linkedin.com/in/thomas-tran-3b9133226/
 
 
