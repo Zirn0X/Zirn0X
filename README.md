@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zirn0X&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zirn0X&langs_count=8&theme=radical)
 
-🎓 I'm currently a student at Epitech Paris (1st year) !
+🎓 I'm currently a student at Epitech Paris (2nd year) !
 
 ### Technical competencies :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
