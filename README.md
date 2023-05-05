@@ -1,6 +1,6 @@
 ## Hey 👋 !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zirn0X&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zirn0X&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zirn0X&langs_count=8&theme=radical)
 
 🎓 I'm currently a student at Epitech Paris (2nd year) !
 
