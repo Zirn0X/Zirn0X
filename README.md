@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zirn0X&langs_count=8&theme=radical)
 
-🎓 I'm currently a student at Epitech Paris (2nd year) !
+🎓 I'm currently a student at Epitech Paris (3rd year) !
 
 ### Technical competencies :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
